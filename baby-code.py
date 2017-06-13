@@ -10,3 +10,5 @@ gamer = input('Make your move!')
 
 #random variable for the computer
 computer = random.randint(0, 4)
+
+#tentando mudar algo
